@@ -1,0 +1,16 @@
+{
+  "version": 1,
+  "base_track": "若葉のころ",
+  "base_artist": "清浦夏実",
+  "createdAt": "2026-01-11T08:05:19.772156Z",
+  "candidates": [
+    {
+      "id": "petitlyrics_1",
+      "source": "petitlyrics",
+      "title": "若葉のころ",
+      "artist": "清浦夏実",
+      "has_synced": false,
+      "path": "select/pl_01_若葉のころ_清浦夏実.txt"
+    }
+  ]
+}
